@@ -1,6 +1,6 @@
 # BiblioSystem — Sistema de Biblioteca (React + Vite)
 
-Breve descrição
+Descrição
 ----------------
 Este é o front-end do BiblioSystem: uma interface leve para gerenciar empréstimos, reservas e perfil de usuários de uma biblioteca. O projeto usa React com Vite para desenvolvimento rápido e build otimizado.
 
@@ -44,4 +44,4 @@ Dicas rápidas
 
 Autores
 -------
-- @MateusC2
+- [@MateusC2](https://github.com/MateusC2)
