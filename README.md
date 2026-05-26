@@ -45,7 +45,7 @@ Dicas rápidas
 
  Link de Deploy
 -----------------
-- Vercel: https://estoque-mtz.vercel.app
+- Vercel: [https://estoque-mtz.vercel.app](https://pi-dsm.vercel.app/login)
 
 Autores
 -------
