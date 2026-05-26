@@ -14,7 +14,7 @@ Instalação
 1. Clone o repositório:
 
 ```bash
-git clone <https://github.com/MateusC2/P.I-DSM-FRONT.git>
+git clone https://github.com/MateusC2/P.I-DSM-FRONT.git
 cd P.I-DSM-FRONT
 ```
 
@@ -45,7 +45,7 @@ Dicas rápidas
 
  Link de Deploy
 -----------------
-- Vercel: [https://estoque-mtz.vercel.app](https://pi-dsm.vercel.app/login)
+- Vercel: https://pi-dsm.vercel.app/login
 
 Autores
 -------
