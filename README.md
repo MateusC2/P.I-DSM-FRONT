@@ -39,8 +39,13 @@ Arquitetura e estilos
 
 
 Dicas rápidas
--------------
+---------------
 - Porta padrão do Vite: abra http://localhost:5173 após `npm run dev`.
+
+
+ Link de Deploy
+-----------------
+- Vercel: https://estoque-mtz.vercel.app
 
 Autores
 -------
