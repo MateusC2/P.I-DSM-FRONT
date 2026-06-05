@@ -4,6 +4,11 @@ Descrição
 ----------------
 Este é o front-end do BiblioSystem: uma interface leve para gerenciar empréstimos, reservas e perfil de usuários de uma biblioteca. O projeto usa React com Vite para desenvolvimento rápido e build otimizado.
 
+Documentação 
+---------------
+- Abaixo a documentação feita no primeiro semestre.
+- [Documentação](https://drive.google.com/file/d/1C94hcxouPW1zaguOjlnXKO3yqawaJWP5/view?usp=drive_link)
+
 Pré-requisitos
 --------------
 - Node.js (recomendado >= 18)
@@ -50,3 +55,4 @@ Dicas rápidas
 Autores
 -------
 - [@MateusC2](https://github.com/MateusC2)
+- [@mariajuliacintra](https://github.com/mariajuliacintra)
