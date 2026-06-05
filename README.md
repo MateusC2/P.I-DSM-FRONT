@@ -6,7 +6,7 @@ Este é o front-end do BiblioSystem: uma interface leve para gerenciar emprésti
 
 Documentação 
 ---------------
-- Abaixo a documentação feita no primeiro semestre.
+Abaixo a documentação feita no primeiro semestre.
 - [Documentação](https://drive.google.com/file/d/1C94hcxouPW1zaguOjlnXKO3yqawaJWP5/view?usp=drive_link)
 
 Pré-requisitos
